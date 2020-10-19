@@ -2,3 +2,5 @@
 "# 24_XRPL2_NayangEthaDinanti_Kado3-rev" 
 "# 24_XRPL2_NayangEthaDinanti_Kado3-rev" 
 "# 24_XRPL2_NayangEthaDinanti_Kado3-rev" 
+"# XRPL2_24_NayangEthaDinanti_Kado2" 
+"# 24_XRPL2_NayangEthaDinanti_Kado3" 
